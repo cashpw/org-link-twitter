@@ -1,0 +1,7 @@
+#+TITLE: org-link-twitter
+
+Provides an =org-link= type for Twitter.
+
+#+begin_example org-mode
+[[twitter:foo][foo]]
+#+end_example
